@@ -54,7 +54,7 @@ public class VariableScope {
         //any changes to the values that the method might make are NOT kept in the original
         //place the values were declared
 
-        //for arrays - any changes a methods makes ARE kept elsewhere in the program
+        //for arrays - any changes a method makes ARE kept elsewhere in the program
     }
 
     public static void doSomething(int i, double d, boolean b, String s, int [] nums) {
