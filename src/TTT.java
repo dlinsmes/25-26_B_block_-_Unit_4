@@ -42,4 +42,11 @@ public class TTT {
                 board[i][j] = "_";
         }
     }
+
+    public static String [] getNames() {
+        String [] names = new String [2];
+        //get names, save them to the array
+
+        return names;
+    }
 }
